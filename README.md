@@ -162,3 +162,7 @@ See `requirements.txt` for specific versions.
 
 ### Low success rate
 - Check if coordinates are valid (moreover, Indian)
+- The coordinates should not have any spaces or other characters
+
+## Upcoming feature I want to add to this project
+- Tehsil name from lat, long data
